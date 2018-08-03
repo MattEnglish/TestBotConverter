@@ -1,0 +1,7 @@
+C:\Users\Matth\source\repos\TestBotUpload\TestBotUpload\bin\Debug\TestBotUpload.dll
+C:\Users\Matth\source\repos\TestBotUpload\TestBotUpload\bin\Debug\TestBotUpload.pdb
+C:\Users\Matth\source\repos\TestBotUpload\TestBotUpload\bin\Debug\BotInterface.dll
+C:\Users\Matth\source\repos\TestBotUpload\TestBotUpload\obj\Debug\TestBotUpload.csproj.CoreCompileInputs.cache
+C:\Users\Matth\source\repos\TestBotUpload\TestBotUpload\obj\Debug\TestBotUpload.csproj.CopyComplete
+C:\Users\Matth\source\repos\TestBotUpload\TestBotUpload\obj\Debug\TestBotUpload.dll
+C:\Users\Matth\source\repos\TestBotUpload\TestBotUpload\obj\Debug\TestBotUpload.pdb
