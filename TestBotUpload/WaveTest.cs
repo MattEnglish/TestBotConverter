@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestBotUpload
 {
-    /*
+    
         public class probVector
         {
             public double dynProb;
@@ -620,7 +620,7 @@ namespace TestBotUpload
                 enemyWins = 0;
                 masterMemory = new MasterMemory();
             }
-        }*/
+        }
 
     }
 

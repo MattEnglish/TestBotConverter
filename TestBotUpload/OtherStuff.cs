@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
+
 namespace TestBotUpload
 {
     public enum Weapon { Rock, Paper, Scissors, Dynamite, WaterBallon }
@@ -141,4 +141,4 @@ namespace TestBotUpload
             return "Player 1 " + P1BattleResult.ToString() + ", " + P1Weapon.ToString() + ", " + P2Weapon.ToString();
         }
     }
-}*/
+}

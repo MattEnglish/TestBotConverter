@@ -1,0 +1,11 @@
+C:\Users\Matth\source\repos\TestBotUpload\ConsoleTest\bin\Debug\Accord.dll.config
+C:\Users\Matth\source\repos\TestBotUpload\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\Matth\source\repos\TestBotUpload\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\Matth\source\repos\TestBotUpload\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\Matth\source\repos\TestBotUpload\ConsoleTest\bin\Debug\TestBotUpload.dll
+C:\Users\Matth\source\repos\TestBotUpload\ConsoleTest\bin\Debug\TestBotUpload.pdb
+C:\Users\Matth\source\repos\TestBotUpload\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\Matth\source\repos\TestBotUpload\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Matth\source\repos\TestBotUpload\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
+C:\Users\Matth\source\repos\TestBotUpload\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\Matth\source\repos\TestBotUpload\ConsoleTest\obj\Debug\ConsoleTest.pdb

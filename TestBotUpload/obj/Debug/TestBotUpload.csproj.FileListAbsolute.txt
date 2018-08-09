@@ -1,3 +1,4 @@
+C:\Users\Matth\source\repos\TestBotUpload\TestBotUpload\bin\Debug\Accord.dll.config
 C:\Users\Matth\source\repos\TestBotUpload\TestBotUpload\bin\Debug\TestBotUpload.dll
 C:\Users\Matth\source\repos\TestBotUpload\TestBotUpload\bin\Debug\TestBotUpload.pdb
 C:\Users\Matth\source\repos\TestBotUpload\TestBotUpload\bin\Debug\BotInterface.dll

@@ -9,26 +9,29 @@ using BotInterface.Game;
 namespace TestBotUpload
 {
 
-    public class ExampleBot : BotInterface.Bot.IBot
-    {
-        public Move MakeMove(Gamestate gamestate)
-        {
-            return Move.P;
-        }
-    }
+public class ExampleBot : IBot
+{
+public Move MakeMove(Gamestate gamestate)
+{
+   return Move.P;
+}
+}
     /*
-    public class MeTestBotConverter : BotInterface.Bot.IBot
+    public class ExampleBot : IBot
     {
-        public IBot2 botToConvert;
+        //public IBot2 botToConvert;
 
         public MeTestBotConverter()
         {
-            botToConvert = new WaveBot();
-            botToConvert.NewGame("");
+            //botToConvert = new NeuroEvolveBot(new CustomNeuralNet());
+            //botToConvert = new WaveBot();
+            //botToConvert.NewGame("");
         }
 
         public Move MakeMove(Gamestate gamestate)
         {
+            return Move.P;
+            /*
             int numberOfRounds = gamestate.GetRounds().Length;
 
             if (numberOfRounds == 0)
